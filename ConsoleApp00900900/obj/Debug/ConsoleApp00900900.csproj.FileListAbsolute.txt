@@ -1,0 +1,7 @@
+D:\Учеба\ConsoleApp00900900\bin\Debug\ConsoleApp00900900.exe.config
+D:\Учеба\ConsoleApp00900900\bin\Debug\ConsoleApp00900900.exe
+D:\Учеба\ConsoleApp00900900\bin\Debug\ConsoleApp00900900.pdb
+D:\Учеба\ConsoleApp00900900\obj\Debug\ConsoleApp00900900.csproj.AssemblyReference.cache
+D:\Учеба\ConsoleApp00900900\obj\Debug\ConsoleApp00900900.csproj.CoreCompileInputs.cache
+D:\Учеба\ConsoleApp00900900\obj\Debug\ConsoleApp00900900.exe
+D:\Учеба\ConsoleApp00900900\obj\Debug\ConsoleApp00900900.pdb
